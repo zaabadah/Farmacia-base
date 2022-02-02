@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+/home/zaa/PROJETOS-BASE/Farmacia-base/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+431730414.index
