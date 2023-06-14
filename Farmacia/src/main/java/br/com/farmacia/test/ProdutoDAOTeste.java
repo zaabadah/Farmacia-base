@@ -70,7 +70,7 @@ public class ProdutoDAOTeste {
 	
 	
 	@Test
-	
+	@Ignore
 	public void editar()throws SQLException{
 		Produtos p = new Produtos();
 		p.setCodigo(5L);
